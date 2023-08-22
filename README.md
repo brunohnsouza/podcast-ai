@@ -1,16 +1,8 @@
-<h1 align="center">
-    Podcast AI
-</h1>
+# Podcast AI
 
-<p align="center">
-    Descubra o futuro do entretenimento com Podcasts gerados por Inteligência Artificial (AI)
-</p>
+Descubra o futuro do entretenimento com Podcasts gerados por Inteligência Artificial (AI)
 
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
-</p>
-
-<table align="center">
+<table>
     <thead>
         <tr>
             <th align="center">
@@ -47,7 +39,7 @@
     </thead>
     <tbody>
         <tr>
-            <td align="center">001</td>
+            <td align="center">01</td>
             <td align="center">
                 <a href="https://open.spotify.com/show/33DkSqSHZVpaqgKOqCXjv9?si=Jb_9m0reSBmGd2jy78ldfw&nd=1">Código Mestre: Algoritmos para o Sucesso na Interface da Vida</a>
             </td>
@@ -60,3 +52,15 @@
         </tr>
     </tbody>
 </table>
+
+## Ferramentas
+
+**Roteiro:** [ChatGPT](https://chat.openai.com/)
+
+**Imagens:** [BlueWillow](https://www.bluewillow.ai/)
+
+**Voz:** [Elevenlabs](https://elevenlabs.io/)
+
+## Licença
+
+[MIT](https://choosealicense.com/licenses/mit/)
