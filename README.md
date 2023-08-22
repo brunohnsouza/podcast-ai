@@ -54,7 +54,7 @@
             <td align="center">22/09/23</td>
             <td align="center">
                 <a href="https://open.spotify.com/show/33DkSqSHZVpaqgKOqCXjv9?si=Jb_9m0reSBmGd2jy78ldfw&nd=1">
-                    <img width="200" src="./001/.github/musicPlayer.png" />
+                    <img width="200" src=".github/001/cod_mestre.jpg" />
                 </a>
             </td>
         </tr>
