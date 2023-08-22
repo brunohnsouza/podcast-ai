@@ -1,4 +1,4 @@
-# Podcast AI
+# Podcast AI 🎙️
 
 Descubra o futuro do entretenimento com Podcasts gerados por Inteligência Artificial (AI)
 
