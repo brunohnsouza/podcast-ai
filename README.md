@@ -6,7 +6,7 @@ Descubra o futuro do entretenimento com Podcasts gerados por Inteligência Artif
     <thead>
         <tr>
             <th align="center">
-                <img width="100" height="1"> 
+                <img width="50" height="1"> 
                 <p>
                     <small>#</small>
                 </p>
@@ -35,19 +35,33 @@ Descubra o futuro do entretenimento com Podcasts gerados por Inteligência Artif
                     </small>
                 </p>
             </th>
+            <th align="center">
+                <img width="100" height="1">
+                <p> 
+                    <small>
+                    PLATAFORMAS
+                    </small>
+                </p>
+            </th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td align="center">01</td>
             <td align="center">
-                <a href="https://open.spotify.com/show/33DkSqSHZVpaqgKOqCXjv9?si=Jb_9m0reSBmGd2jy78ldfw&nd=1">Código Mestre: Algoritmos para o Sucesso na Interface da Vida</a>
+                Código Mestre: Algoritmos para o Sucesso na Interface da Vida
             </td>
             <td align="center">22/09/23</td>
             <td align="center">
-                <a href="https://open.spotify.com/show/33DkSqSHZVpaqgKOqCXjv9?si=Jb_9m0reSBmGd2jy78ldfw&nd=1">
-                    <img width="200" src=".github/001/cod_mestre.jpg" />
-                </a>
+                <img width="200" src=".github/001/cod_mestre.jpg" />     
+            </td>
+            <td align="center">
+                <a href="https://open.spotify.com/show/33DkSqSHZVpaqgKOqCXjv9?si=Jb_9m0reSBmGd2jy78ldfw&nd=1" target="_blank">
+                    <img width="100" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank">
+                </a>     
+                <a href="https://deezer.com/show/1000204045" target="_blank">
+                    <img width="100" src="https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white" target="_blank">
+                </a>  
             </td>
         </tr>
     </tbody>
