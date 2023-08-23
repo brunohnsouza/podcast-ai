@@ -20,7 +20,7 @@ Descubra o futuro do entretenimento com Podcasts gerados por Inteligência Artif
                 </p>
             </th>
             <th align="center">
-                <img width="100" height="1">
+                <img width="50" height="1">
                 <p> 
                     <small>
                     DATA
@@ -28,7 +28,7 @@ Descubra o futuro do entretenimento com Podcasts gerados por Inteligência Artif
                 </p>
             </th>
             <th align="center">
-                <img width="200" height="1">
+                <img width="150" height="1">
                 <p> 
                     <small>
                     CAPA
@@ -36,7 +36,7 @@ Descubra o futuro do entretenimento com Podcasts gerados por Inteligência Artif
                 </p>
             </th>
             <th align="center">
-                <img width="100" height="1">
+                <img width="50" height="1">
                 <p> 
                     <small>
                     PLATAFORMAS
@@ -53,7 +53,7 @@ Descubra o futuro do entretenimento com Podcasts gerados por Inteligência Artif
             </td>
             <td align="center">22/09/23</td>
             <td align="center">
-                <img width="200" src=".github/001/cod_mestre.jpg" />     
+                <img width="150" src=".github/001/cod_mestre.jpg" />     
             </td>
             <td align="center">
                 <a href="https://open.spotify.com/show/33DkSqSHZVpaqgKOqCXjv9?si=Jb_9m0reSBmGd2jy78ldfw&nd=1" target="_blank">
