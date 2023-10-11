@@ -36,7 +36,7 @@ Descubra o futuro do entretenimento com Podcasts gerados por Inteligência Artif
                 </p>
             </th>
             <th align="center">
-                <img width="50" height="1">
+                <img width="100" height="1">
                 <p> 
                     <small>
                     EPSÓDIOS
