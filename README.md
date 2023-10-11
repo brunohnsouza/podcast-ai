@@ -39,7 +39,7 @@ Descubra o futuro do entretenimento com Podcasts gerados por Inteligência Artif
                 <img width="50" height="1">
                 <p> 
                     <small>
-                    PLATAFORMAS
+                    EPSÓDIOS
                     </small>
                 </p>
             </th>
@@ -56,12 +56,9 @@ Descubra o futuro do entretenimento com Podcasts gerados por Inteligência Artif
                 <img width="200" src=".github/001/cod_mestre.jpg" />     
             </td>
             <td align="center">
-                <a href="https://open.spotify.com/show/33DkSqSHZVpaqgKOqCXjv9?si=Jb_9m0reSBmGd2jy78ldfw&nd=1" target="_blank">
-                    <img width="100" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank">
+                <a href="https://drive.google.com/drive/folders/1p5FeXkC3mLmC5OEO-z-AI3v4fNIeVgyk?usp=sharing" target="_blank">
+                    <img width="100" src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" target="_blank">
                 </a>     
-                <a href="https://deezer.com/show/1000204045" target="_blank">
-                    <img width="100" src="https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white" target="_blank">
-                </a>  
             </td>
         </tr>
     </tbody>
