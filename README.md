@@ -85,6 +85,10 @@ Descubra o futuro do entretenimento com Podcasts gerados por Inteligência Artif
 - Link da live no [YouTube](https://www.youtube.com/live/cckRv7UwB_4?si=lc3P6vyUBcUxH6-j)
 - [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
 
+## Reflexão
+
+O projeto destacou a versatilidade das IAs Generativas na criação de conteúdo auditivo, abrindo novos caminhos para a produção de mídia digital.
+
 ## Licença
 
 [MIT](https://choosealicense.com/licenses/mit/)
