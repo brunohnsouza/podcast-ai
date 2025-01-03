@@ -56,8 +56,8 @@ Descubra o futuro do entretenimento com Podcasts gerados por Inteligência Artif
                 <img width="200" src=".github/001/cod_mestre.jpg" />     
             </td>
             <td align="center">
-                <a href="https://drive.google.com/drive/folders/1p5FeXkC3mLmC5OEO-z-AI3v4fNIeVgyk?usp=sharing" target="_blank">
-                    <img width="100" src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" target="_blank">
+                <a href=".github/001/README.md">
+                    <img width="100" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
                 </a>     
             </td>
         </tr>
