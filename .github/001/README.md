@@ -5,8 +5,10 @@ Veja o papel vital de algumas habilidades além do código para o seu desenvolvi
 
 <audio controls>
   <source src="./eps/ep1.mp3" type="audio/mpeg">
-  Seu navegador não suporta o player de áudio.
+  Seu navegador não suporta o player de áudio. 
 </audio>
+
+[Clique aqui para baixar o episódio](./eps/ep1.mp3)
 
 ### Episódio 2: Como manter a motivação em alta na carreira de desenvolvimento?
 Já sentiu-se preso na mesmice? É normal essa sensação. Veja como sair desse estado.
@@ -16,6 +18,8 @@ Já sentiu-se preso na mesmice? É normal essa sensação. Veja como sair desse 
   Seu navegador não suporta o player de áudio.
 </audio>
 
+[Clique aqui para baixar o episódio](./eps/ep2.mp3)
+
 ### Episódio 3: Hackeando o gerenciamento de tempo
 Como técnicas de produtividade tem um papel vital na otimização das tarefas do seu dia?
 
@@ -23,3 +27,5 @@ Como técnicas de produtividade tem um papel vital na otimização das tarefas d
   <source src="./eps/ep3.mp3" type="audio/mpeg">
   Seu navegador não suporta o player de áudio.
 </audio>
+
+[Clique aqui para baixar o episódio](./eps/ep3.mp3)
